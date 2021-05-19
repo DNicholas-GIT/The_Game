@@ -1,0 +1,1 @@
+{"name": "Luke", "level": 1, "health": 10, "strength": 3, "agility": 3, "intellect": 3, "wisdom": 3, "spirit": 3}
